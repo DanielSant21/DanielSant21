@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel, Jr. Developer.
-- 👀 I’m interested in web and IA's, since i was just a kid.
+- 👀 I’m interested in web and AI's, since i was just a kid.
 - 🌱 I’m currently learning HTML, CSS e JavaScript.
 - 💞️ I’m looking to collaborate on small projects to get experience.
 - 📫 How to reach me: you can find me on my social medias;
